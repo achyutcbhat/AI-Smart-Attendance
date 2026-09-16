@@ -1,0 +1,12 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+insightface
+onnxruntime
+torch
+torchvision
+retina-face
+mysql-connector-python
+pyyaml

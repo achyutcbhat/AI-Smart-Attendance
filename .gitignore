@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment / secrets
+.env
+
+# Logs
+logs/
+
+# Generated results
+results/
+
+# Local datasets
+data/
+
+# Trained models
+models/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Configuration with local secrets
+config.yaml

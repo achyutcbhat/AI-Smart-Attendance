@@ -1,0 +1,17 @@
+recognition:
+  threshold: 0.5
+
+liveness:
+  threshold: 0.6
+
+fusion:
+  recognition_weight: 0.5
+  liveness_weight: 0.3
+  background_weight: 0.2
+  threshold: 0.4
+
+database:
+  host: localhost
+  user: root
+  password: YOUR_DATABASE_PASSWORD
+  database: ai_smart_attendance
